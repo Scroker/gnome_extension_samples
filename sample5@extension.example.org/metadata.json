@@ -1,0 +1,8 @@
+{
+  "name": "sample5",
+  "description": "My sample 5 extension",
+  "uuid": "sample5@extension.example.org",
+  "shell-version": [
+    "43"
+  ]
+}

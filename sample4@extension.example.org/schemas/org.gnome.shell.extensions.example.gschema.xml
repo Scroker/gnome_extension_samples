@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.example" path="/org/gnome/shell/extensions/example/">
+    <!-- See also: https://docs.gtk.org/glib/gvariant-format-strings.html -->
+    <key name="show-indicator" type="b">
+      <default>true</default>
+    </key>
+    <!-- See also: https://docs.gtk.org/glib/gvariant-format-strings.html -->
+    <key name="feature-range" type="u">
+      <default>10</default>
+    </key>
+  </schema>
+</schemalist>
